@@ -9,6 +9,7 @@ void char_test() {
 	printf("tem=%c\n", tem);
 
 }
+//这是为了测试pull
 int main() {
 	char_test();
 	return 0;
